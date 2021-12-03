@@ -9,7 +9,7 @@ public class Variable {
         boolean system_starts = true;
         char symbol = 'K';
 
-        System.out.println("специкация парамертов ноутбука-");
+        System.out.println("специкация парамертов ноутбука");
         System.out.print("сколько мониторов-");
         System.out.println(monitors);
         System.out.print("сколько кнопок на клавиатуре-");
